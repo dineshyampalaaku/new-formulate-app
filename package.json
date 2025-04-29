@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "d3-cloud": "^1.2.7",
+    "date-fns": "^4.1.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.5.3",
+    "react-wordcloud": "^1.2.7",
+    "recharts": "^2.15.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
